@@ -16,4 +16,4 @@ spec:
         - name: sampleapp 
           image: christmascountdownregistry.azurecr.io/christmascountdown
           ports:
-          - containerPort: 80
+          - containerPort: 80 
